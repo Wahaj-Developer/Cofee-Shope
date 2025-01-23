@@ -1,10 +1,10 @@
 # Cofee-Shope
-This is my firdt website cofee shop 
+This is my firdt website cofee shop </br>
 using:
 1-Html
 2-CSS
 3-Javascript
-Basic struter is made by html in which there are fourew section
+Basic struter is made by html in which there are foure section
 1- Home
 2- About 
 3- Menu 
